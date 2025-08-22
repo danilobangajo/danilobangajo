@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, Im Danilo Bangajo JR 
 
 <!--
 **danilobangajo/danilobangajo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
