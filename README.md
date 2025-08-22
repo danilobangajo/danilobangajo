@@ -8,7 +8,7 @@ I am passionate about technology, coding, and problem-solving, and I enjoy learn
 - I want to turn every misunderstanding into an opportunity for growth and discovery.
 - Striving to become a skilled full-stack developer in the future.
 - Exploring web development.
-- Currently learning Python, SQL, and Flask. 
+- Currently learning Python, Flask, and SQL. 
 
 ## 🛠 Skills  
 - Beginner in Python 🐍  
